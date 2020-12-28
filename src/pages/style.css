@@ -1,0 +1,89 @@
+.home{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+     /* background-image: url(https://uvs-it.com/wp-content/uploads/2013/05/homepage-background.jpg); */
+    position:fixed;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 200%;
+    background-size: center;
+    background-position: center;
+    background-color: rgb(13, 245, 206);
+    color:rgb(240, 39, 12);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.products{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* background-image: url(https://i.pinimg.com/originals/a1/93/1e/a1931e89c63dbc0d1ff24aec7fa723ff.jpg); */
+    position:fixed;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 200%;
+    background-size: center;
+    background-position: center;
+    background-color: burlywood;
+    color:brown;
+}
+.reports{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:brown;
+    /* background-image: url(https://lh3.googleusercontent.com/proxy/Ul4e-AE-SHftVB_MKucu7P1XsLXwc7LOXLTeZh6AlC04f4mn8sVMI3PWQ0-DV3fkLwLGrPHhoMJo3HMCv5oIhW0IsYN3jAjO6Xdg0dVCvpzuefMV8r913wfqcg1eu7NnA3BUq2svMvnnq4WfWgfc3QrtEw); */
+    min-width: 100%;
+    position :fixed;
+    min-height: 100%;
+    font-size: 200%;
+    background-size: center;
+    background-position: center;
+    background-color: burlywood;
+}
+.team{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* background-image: url(https://www.udvavisk.com/wp-content/uploads/2017/08/team.jpg); */
+    position :fixed;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 200%;
+    background-size: center;
+    background-position: center;
+    background-color: burlywood;
+    color:brown;
+
+}
+.help{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* background-image: url(https://i.pinimg.com/originals/22/4e/4c/224e4c700ad00ed1dbbb98e6da6d6ef1.jpg); */
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 200%;
+    position: fixed;
+    background-size: center;
+    background-position: center;
+    background-color: burlywood;
+    color:brown;
+
+}
+.message{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* background-image: url(https://i.pinimg.com/originals/02/cd/cb/02cdcb9f209a394a37d72db599bc388a.jpg); */
+    position :fixed;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 200%;
+    background-size: center;
+    background-position: center;
+    color:brown;
+    background-color: burlywood;
+    
+}
